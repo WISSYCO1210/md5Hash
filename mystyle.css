@@ -1,0 +1,13 @@
+body{
+    background-color:rgb(216, 167, 93);
+
+}
+#desc{
+    font-style: italic;
+    
+    color:black;
+    background-color: beige;
+}
+title{
+    text-shadow: 2px 2px 5px red;
+}
