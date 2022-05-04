@@ -15,7 +15,9 @@ if ( isset($_GET['encode']) ) {
 <input type="text" name="encode" size="40" />
 <input type="submit" value="Compute MD5"/>
 </form>
-<p><a href="md5.php">Reset</a></p>
-<p><a href="index.php">Back to Cracking</a></p>
+<ul>
+    <li><a href="md5.php">Reset</a></li>
+<li><a href="index.php">Back to Cracking</a></li>
+</ul>
 </body>
 </html>

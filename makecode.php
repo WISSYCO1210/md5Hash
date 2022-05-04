@@ -35,7 +35,9 @@ if ( $md5 !== false ) {
 <input type="text" name="code" value="<?= htmlentities($code) ?>"/>
 <input type="submit" value="Compute MD5 for CODE"/>
 </form>
-<p><a href="makecode.php">Reset</a></p>
-<p><a href="index.php">Back to Cracking</a></p>
+<ul>
+    <li><a href="makecode.php">Reset</a></li>
+<li><a href="index.php">Back to Cracking</a></li>
+</ul>
 </body>
 </html>
